@@ -55,8 +55,8 @@ nav a:hover {
 
 .hero {
     display: flex;
-    padding-top: 120px;
-    padding-right: 450px;
+    padding-top: 10%;
+    padding-right: 30%;
     justify-content: center;
     height: 100vh;
     text-align: center;
